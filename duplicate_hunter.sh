@@ -1,5 +1,6 @@
+#!/bin/bash
+# Look for duplicates in terms of file content and display relevant information
 # Author: Chafic Najjar
-# Description: Look for duplicates in terms of file content and display relevant information
 
 # current working directory
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
